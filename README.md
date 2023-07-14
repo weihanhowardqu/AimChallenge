@@ -1,2 +1,2 @@
 # AimChallenge
-CS174A Final Project
+Gun Shooting Game
